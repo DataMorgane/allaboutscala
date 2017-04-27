@@ -36,4 +36,8 @@ object Range extends App {
   val arrayFrom1To5 = (1 to 5).toArray
   println(s"Range to array = ${arrayFrom1To5.mkString(" ")}")
 
+
+  // Bonus : print with foreach and wildcard operator _
+  arrayFrom1To5.foreach(print(_))
+
 }
