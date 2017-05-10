@@ -5,6 +5,6 @@ package com.allaboutscala.chapter.three
   */
 object FunctionWithImplicitParameters_05 extends App {
 
-
+  // Test
 
 }
